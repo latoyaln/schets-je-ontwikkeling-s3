@@ -17,7 +17,8 @@ Over 1 jaar heb ik hopelijk een leuke maar flexibele baan die ik remote kan uitv
 
 Ik heb vervolgens de tijdlijn getekent vanaf nu naar over 1 jaar
 
-![Mijzelf In de toekomst.pdf](https://github.com/user-attachments/files/17535563/Mijzelf.In.de.toekomst.pdf)
+![Tijdlijn.pdf](https://github.com/user-attachments/files/17535610/Tijdlijn.pdf)
+
 
 ## Metafoor
 
