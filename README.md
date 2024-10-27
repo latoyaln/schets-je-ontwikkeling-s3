@@ -22,4 +22,7 @@ Ik heb vervolgens de tijdlijn getekent vanaf nu naar over 1 jaar
 
 ## Metafoor
 
-Als metafoor heb ik mezelf geschets die een hele grote puzzel maakt. Om deze puzzel volledig af te maken moet ik stukjes vinden die overal en nergens hangen, dit zijn mijn obstakels. Ook is er te zien hoe de puzzel uiteindelijk eruit ziet.
+Als metafoor heb ik mezelf geschets die een trap met obstakels en uitdagingen oploopt. Je ziet mij springen van het een naar het andere. Zo kom ik uiteindelijk bij het eind punt.
+
+![metafoor](https://github.com/user-attachments/assets/d655be72-857f-4ec4-8df5-65d9b444cd35)
+
