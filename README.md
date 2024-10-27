@@ -1,11 +1,24 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Schets je ontwikkeling
 
-# Schets je ontwikkeling - Semester 3
+Tijdens de les heb ik een tijdlijn gemaakt met waar ik mijzelf zie in 1 jaar. 
 
-Maak een praatplaat over jouw ontwikkeling als frontender
+## Spinnenwebdiagram
 
-## Licentie
+Ik heb aan de hand van de verschillende gedragscriteria gekeken hoe ver ik sta.
+![Spinnenweb.pdf](https://github.com/user-attachments/files/17535557/Spinnenweb.pdf)
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+## Over 1 jaar
+
+Over 1 jaar heb ik hopelijk een leuke maar flexibele baan die ik remote kan uitvoeren. 
+
+![Mijzelf In de toekomst.pdf](https://github.com/user-attachments/files/17535561/Mijzelf.In.de.toekomst.pdf)
+
+## Tijdlijn
+
+Ik heb vervolgens de tijdlijn getekent vanaf nu naar over 1 jaar
+
+![Mijzelf In de toekomst.pdf](https://github.com/user-attachments/files/17535563/Mijzelf.In.de.toekomst.pdf)
+
+## Metafoor
+
+Als metafoor heb ik mezelf geschets die een hele grote puzzel maakt. Om deze puzzel volledig af te maken moet ik stukjes vinden die overal en nergens hangen, dit zijn mijn obstakels. Ook is er te zien hoe de puzzel uiteindelijk eruit ziet.
