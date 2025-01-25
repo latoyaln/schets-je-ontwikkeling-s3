@@ -33,7 +33,8 @@ Ik heb opnieuw schetsen gemaakt van waar ik mijzelf zie en hoe ik vooruit kijk. 
 ## Spinnenwebdiagram
 
 Ik heb aan de hand van de verschillende gedragscriteria gekeken hoe ver ik sta.
-![Spinnenweb.pdf](https://github.com/user-attachments/files/17535557/Spinnenweb.pdf)
+
+![spinnenweb2.pdf](https://github.com/user-attachments/files/18547924/spinnenweb2.pdf)
 
 
 ## Tijdlijn
