@@ -1,4 +1,4 @@
-# Schets je ontwikkeling
+# Schets je ontwikkeling - 2024
 
 Tijdens de les heb ik een tijdlijn gemaakt met waar ik mijzelf zie in 1 jaar. 
 
@@ -26,3 +26,4 @@ Als metafoor heb ik mezelf geschets die een trap met obstakels en uitdagingen op
 
 ![metafoor](https://github.com/user-attachments/assets/d655be72-857f-4ec4-8df5-65d9b444cd35)
 
+# Schets je ontwikkeling - 2025
