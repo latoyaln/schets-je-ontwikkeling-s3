@@ -34,7 +34,7 @@ Ik heb opnieuw schetsen gemaakt van waar ik mijzelf zie en hoe ik vooruit kijk. 
 
 Ik heb aan de hand van de verschillende gedragscriteria gekeken hoe ver ik sta.
 
-![spinnenweb2.pdf](https://github.com/user-attachments/files/18547924/spinnenweb2.pdf)
+![Schermafbeelding 2025-01-25 om 9 50 59 PM](https://github.com/user-attachments/assets/8a633416-a1b1-4a9a-bb2c-92570e45781f)
 
 
 ## Tijdlijn
